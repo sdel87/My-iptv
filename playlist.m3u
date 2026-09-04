@@ -901,6 +901,8 @@ https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa1
 https://reflect-aurora.cablecast.tv/live-8/live/live.m3u8
 #EXTINF:-1 tvg-id="AvangTV.us@SD" tvg-logo="https://i.imgur.com/3I1n7fO.png" group-title="🇺🇸 USA",Avang TV (1080p)
 https://hls.avang.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AVIRewind.us@SD" tvg-logo="https://zplay.cl/LogosV2/AVIREWINDS_NEW.png" group-title="🇺🇸 USA",AVI Rewind (1080p)
+http://45.70.201.81:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="AWE.us@SD" tvg-logo="https://i.imgur.com/OjpCtGj.png" group-title="🇺🇸 USA",AWE (720p)
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="AWEInternational.us@SD" tvg-logo="https://i.imgur.com/VhxtMUQ.png" group-title="🇺🇸 USA",AWE International (720p)
@@ -1501,6 +1503,8 @@ https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
 https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="FGTV.us@SD" tvg-logo="https://i.imgur.com/RXFmzVY.png" group-title="🇺🇸 USA",FGTV
 https://securestream11.champds.com/LIVE/FultonCoGALIVE/FultonCoGALIVE.m3u8
+#EXTINF:-1 tvg-id="FierroaFondoTV.us@SD" tvg-logo="https://pbs.twimg.com/profile_images/1903618079696773120/maQJpd9__400x400.jpg" group-title="🇺🇸 USA",Fierro a Fondo TV (1080p)
+http://45.70.201.81:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="🇺🇸 USA",FIFA+ United States (720p)
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="FilAmTVNetwork.us@HD" tvg-logo="https://i.imgur.com/nRiApdI.png" group-title="🇺🇸 USA",FilAmTV Network (1080p)
@@ -3227,6 +3231,8 @@ https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playl
 https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ZarinTV.us@SD" tvg-logo="" group-title="🇺🇸 USA",Zarin TV (1080p)
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
+#EXTINF:-1 tvg-id="ZTV.us@SD" tvg-logo="https://zplay.cl/img/ztv.png" group-title="🇺🇸 USA",ZTV (1080p)
+http://45.70.201.81:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="3ABNCanada.ca@SD" tvg-logo="https://i.imgur.com/U99CsEc.png" group-title="🇨🇦 Canada",3ABN Canada (720p)
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 #EXTINF:-1 tvg-id="5AABTV.ca@SD" tvg-logo="https://i.imgur.com/jrGrfof.png" group-title="🇨🇦 Canada",5AAB TV (720p) [Not 24/7]
@@ -3675,8 +3681,6 @@ https://bloomberg.com/media-manifest/streams/aus.m3u8
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 #EXTINF:-1 tvg-id="Channel7.au@Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/500px-Seven_Network_logo.svg.png" group-title="🇦🇺 Australia",Channel 7 (720p) [Geo-blocked]
 https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
-#EXTINF:-1 tvg-id="Channel7.au@Melbourne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/500px-Seven_Network_logo.svg.png" group-title="🇦🇺 Australia",Channel 7 Melbourne
-http://44.32.200.142:5004/auto/v7
 #EXTINF:-1 tvg-id="Channel9.au@Adelaide" tvg-logo="https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png" group-title="🇦🇺 Australia",Channel 9 Adelaide (720p) [Geo-blocked]
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8
 #EXTINF:-1 tvg-id="Channel9.au@Brisbane" tvg-logo="https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png" group-title="🇦🇺 Australia",Channel 9 Brisbane (720p) [Geo-blocked]
