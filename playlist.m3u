@@ -39,6 +39,8 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCFourCBeebies.uk@HD" tvg-logo="https://i.imgur.com/aH0PCPy.png" group-title="🇬🇧 UK",BBC Four/CBeebies (720p)
 http://193.46.58.239:8080/CbeebiesHD/index.m3u8
+#EXTINF:-1 tvg-id="BBCLifestyle.uk@Asia" tvg-logo="https://i.imgur.com/9mzJJ3y.png" group-title="🇬🇧 UK",BBC Lifestyle Asia (720p)
+http://58.8.186.128:10003/bysid/2333
 #EXTINF:-1 tvg-id="BBCNews.uk@UK" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="🇬🇧 UK",BBC News (1080p)
 https://xemzi.short.gy/1000015
 #EXTINF:-1 tvg-id="BBCNewsPashto.uk@HD" tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/pashto/images/metadata/poster-1024x576.png" group-title="🇬🇧 UK",BBC News Pashto (720p)
@@ -1971,6 +1973,8 @@ https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481
 https://wggstv16.ddns.net:9953/hls/KMCT1.m3u8
 #EXTINF:-1 tvg-id="Univision.us@KMEXDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/960px-MyNetworkTV_2D_Logo.svg.png" group-title="🇺🇸 USA",KMEX-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
+#EXTINF:-1 tvg-id="KNino.us@SD" tvg-logo="https://ipuntotv.com/IMAGES/Knino-logo.png" group-title="🇺🇸 USA",KNino (1080p)
+https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="NBC.us@KNTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="🇺🇸 USA",KNTV-DT1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&ads.xumo_ifaType=&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA
 #EXTINF:-1 tvg-id="Roar.us@KOKITV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="🇺🇸 USA",KOKI-DT1 (1080p)
@@ -2217,8 +2221,6 @@ https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
 https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
 #EXTINF:-1 tvg-id="MLB.us@SD" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="🇺🇸 USA",MLB (720p)
 https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
-#EXTINF:-1 tvg-id="MLBNetwork.us@SD" tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="🇺🇸 USA",MLB Network (1080p) [Geo-blocked]
-https://messi.damitv.st/papi/ts/mlbnetwork-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="MLBStrikeZone.us@SD" tvg-logo="https://i.imgur.com/uMI1ySO.png" group-title="🇺🇸 USA",MLB Strike Zone (720p)
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="MMATV.us@SD" tvg-logo="https://i.imgur.com/Qxco1eW.png" group-title="🇺🇸 USA",MMA-TV (576p)
@@ -2351,12 +2353,8 @@ https://aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playl
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="NBCLXHome.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/NBC_LX_Home_2023.svg" group-title="🇺🇸 USA",NBC LX Home (1080p)
 https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8
-#EXTINF:-1 tvg-id="NBCSportsBayArea.us@SD" tvg-logo="https://i.imgur.com/MTgUVKx.png" group-title="🇺🇸 USA",NBC Sports Bay Area (1080p) [Geo-blocked]
-https://messi.damitv.st/papi/ts/nbc-sports-bayarea/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="🇺🇸 USA",NBC Sports NOW (1080p)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
-#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/960px-NBC_Sports_Philadelphia.png" group-title="🇺🇸 USA",NBC Sports Philadelphia (1080p) [Geo-blocked]
-https://messi.damitv.st/papi/ts/nbc-sports-philly/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCUniverso.us@West" tvg-logo="https://i.imgur.com/RZ8pIKe.png" group-title="🇺🇸 USA",NBC Universo West (720p)
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="🇺🇸 USA",NBC West (720p)
@@ -3011,8 +3009,6 @@ https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
 https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@West" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="🇺🇸 USA",Telemundo West (2160p)
 http://168.228.44.241:9997/play/a07g/index.m3u8
-#EXTINF:-1 tvg-id="Telemundo.us@WestHD" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="🇺🇸 USA",Telemundo West HD (720p)
-https://streamer.metronethn.com/Telemundo/index.m3u8
 #EXTINF:-1 tvg-id="TemeculaTV.us@SD" tvg-logo="https://i.imgur.com/El16S4C.png" group-title="🇺🇸 USA",Temecula TV (Temecula CA) (1080p)
 https://reflect-temecula.cablecast.tv/live-2/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="Tempe11.us@SD" tvg-logo="https://i.imgur.com/KMeHRV3.png" group-title="🇺🇸 USA",Tempe Channel 11
@@ -3777,8 +3773,6 @@ https://videostream.jpbgdigital.com/NOWTV.m3u8
 https://live.ntdtv.com/mllive860/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTVCanada.us@West" tvg-logo="https://i.imgur.com/iyFXcDy.png" group-title="🇨🇦 Canada",NTD TV Canada West
 https://live.ntdtv.com/cwlive220/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.ca@SD" tvg-logo="https://i.imgur.com/KQtQg5y.png" group-title="🇨🇦 Canada",NTV (720p)
-https://live.omni3.pl/cjon-dt/index.m3u8?token=ebnk.xyz
 #EXTINF:-1 tvg-id="NTVPlus.ca@SD" tvg-logo="https://i.imgur.com/YEUhPBv.png" group-title="🇨🇦 Canada",NTV+
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="OnePiece.us@CA" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="🇨🇦 Canada",One Piece
