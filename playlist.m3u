@@ -1797,8 +1797,6 @@ https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist
 http://tvsen7.aynascope.net/hbo/index.m3u8
 #EXTINF:-1 tvg-id="HBOHits.us@East" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png" group-title="🇺🇸 USA",HBO Hits (720p)
 http://tvsen7.aynascope.net/hbo2/index.m3u8
-#EXTINF:-1 tvg-id="HBOMovies.us@East" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/HBO_Movies_Logo.svg/960px-HBO_Movies_Logo.svg.png" group-title="🇺🇸 USA",HBO Movies (720p)
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="HBTV.us@SD" tvg-logo="https://i.imgur.com/xADoSqE.png" group-title="🇺🇸 USA",HBTV (720p)
 https://reflect-huntingtonbeach.cablecast.tv/live-4/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="HCTVEducationalAccessChannel.us@SD" tvg-logo="https://i.imgur.com/bVbpgiD.png" group-title="🇺🇸 USA",HCTV Educational Access Channel
@@ -4077,6 +4075,8 @@ https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlis
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="News24.au@SD" tvg-logo="https://i.imgur.com/KagpoPN.png" group-title="🇦🇺 Australia",News24 (1080p)
 https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8
+#EXTINF:-1 tvg-id="News24World.au@SD" tvg-logo="https://i.imgur.com/mzc1nJS.png" group-title="🇦🇺 Australia",News24 World
+https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8
 #EXTINF:-1 tvg-id="Racingcom.au@SD" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="🇦🇺 Australia",Racing.com (720p)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:-1 tvg-id="SBSWorldWatch.au@Sydney" tvg-logo="https://i.imgur.com/gCKMxrW.png" group-title="🇦🇺 Australia",SBS WorldWatch
@@ -4091,8 +4091,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 tvg-id="SkyNewsExtra3.au@SD" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="🇦🇺 Australia",Sky News Extra 3 (1080p)
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 tvg-id="SkyNewsExtra.au@SD" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="🇦🇺 Australia",Sky News Extra
-https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8
 #EXTINF:-1 tvg-id="SkyNewsWeatherChannel.au@SD" tvg-logo="https://i.imgur.com/FKg6AQr.png" group-title="🇦🇺 Australia",Sky News Weather Channel
 https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8
 #EXTINF:-1 tvg-id="SkyRacing1.au@SD" tvg-logo="https://i.imgur.com/Hf0EiaW.png" group-title="🇦🇺 Australia",Sky Racing 1 (720p)
