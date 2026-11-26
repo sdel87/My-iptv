@@ -579,8 +579,6 @@ https://jmp2.uk/plu-60817936fd2d70000763d2b2.m3u8
 https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us@UK" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="🇬🇧 UK",World Poker Tour UK (1080p)
 https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-id="XITEHits.nl@UK" tvg-logo="https://i.imgur.com/N51Rp7E.png" group-title="🇬🇧 UK",XITE Hits UK (1080p)
-https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="YAAAS.uk@HD" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-12/yaas-logo250x144.png" group-title="🇬🇧 UK",YAAAS! (720p) [Geo-blocked]
 https://d3knqoaufvjug3.cloudfront.net/yas.m3u8
 #EXTINF:-1 tvg-id="ZeeOne.uk@UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="🇬🇧 UK",Zee One (1080p)
@@ -3565,20 +3563,6 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:207282-6094500/playlist.m3u8
 https://tv2.fastcast4u.com:3943/stream/play.m3u8
 #EXTINF:-1 tvg-id="XFCTV.us@SD" tvg-logo="https://i.imgur.com/LcfzmG0.png" group-title="🇺🇸 USA",XFC TV (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2247
-#EXTINF:-1 tvg-id="XITE90sThrowback.us@SD" tvg-logo="https://i.imgur.com/vwpOzuz.png" group-title="🇺🇸 USA",XITE 90's Throwback (1080p)
-https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
-#EXTINF:-1 tvg-id="XITEClassicCountry.nl@SD" tvg-logo="https://i.imgur.com/XQrMCkT.png" group-title="🇺🇸 USA",XITE Classic Country (720p)
-https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
-#EXTINF:-1 tvg-id="XITEJustChill.nl@US" tvg-logo="https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png" group-title="🇺🇸 USA",XITE Just Chill (1080p)
-https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
-#EXTINF:-1 tvg-id="XITENuevoLatino.us@SD" tvg-logo="https://i.imgur.com/2qyl2y3.png" group-title="🇺🇸 USA",XITE Nuevo Latino (1080p)
-https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
-#EXTINF:-1 tvg-id="XITEReggaeVibes.nl@HD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png" group-title="🇺🇸 USA",XITE Reggae Vibes (1080p)
-https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
-#EXTINF:-1 tvg-id="XITERockxMetal.nl@US" tvg-logo="https://i.imgur.com/uIIUIuN.png" group-title="🇺🇸 USA",XITE Rock x Metal (1080p)
-https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
-#EXTINF:-1 tvg-id="XITESiempreLatino.us@SD" tvg-logo="https://i.imgur.com/bwmIEgG.png" group-title="🇺🇸 USA",XITE Siempre Latino (1080p)
-https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
 #EXTINF:-1 tvg-id="XploreTV.us@SD" tvg-logo="https://i.imgur.com/WaGRlFO.png" group-title="🇺🇸 USA",Xplore TV (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us@SD" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="🇺🇸 USA",Yahoo! Finance (1080p)
@@ -4093,7 +4077,7 @@ https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af78
 https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-id="ABCKids.au@Sydney" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="🇦🇺 Australia",ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
-#EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="🇦🇺 Australia",ABC News (720p)
+#EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="🇦🇺 Australia",ABC News (Australia) (720p)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-id="ABCTV.au@NSW" tvg-logo="https://i.imgur.com/DPVQSjM.png" group-title="🇦🇺 Australia",ABC TV (720p)
 https://c.mjh.nz/abc-nsw.m3u8
